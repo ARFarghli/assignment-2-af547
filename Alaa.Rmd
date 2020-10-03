@@ -1,0 +1,15 @@
+---
+title: "Alaa"
+author: "Alaa R. Farghli"
+date: "10/2/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* I like to cook
+* I am the oldest of four, with three younger sisters
+* I am a moderately above average comic book consumer
+
