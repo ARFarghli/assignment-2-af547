@@ -1,0 +1,14 @@
+---
+title: "Aura"
+author: "Aura L"
+date: "10/2/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* I once spent 60 hours without sleeping (it was an accident!)
+* The Stormlight Archive is my favorite book series
+* I was born in France but I lived in Mexico most of my life 
