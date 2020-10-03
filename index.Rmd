@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-My name: Alaa Farghli: https://github.com/ARFarghli
+My name: Alaa Farghli: https://github.com/ARFarghli\
 Partners name: Aura Loinard: https://github.com/APloinard
 
 ![I mastered the art of cheesecake during COVID. This is made with oreo crust](/Users/arfantastic/Downloads/Pictures/cheesecake3.jpg)
