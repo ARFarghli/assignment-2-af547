@@ -1,9 +1,10 @@
 output_dir: "."
-navbar:
+navbar: 
+  title: My first website
   left:
     - text: "Home"
       href: index.html
     - text: "Alaa"
-      href: maria.html
-    - text: "Nina"
-      href: nina.html 
+      href: Alaa.html
+    - text: "Aura"
+      href: aura.html 
